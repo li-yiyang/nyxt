@@ -60,7 +60,7 @@
 	shallow = true
 [submodule "_build/closer-mop"]
 	path = _build/closer-mop
-	url = https://github.com/pcostanza/closer-mop
+	url = https://codeberg.org/pcostanza/closer-mop.git
 	shallow = true
 [submodule "_build/cluffer"]
 	path = _build/cluffer
